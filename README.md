@@ -11,7 +11,7 @@ O gerente será responsável por avaliar e decidir sobre as sugestões de preço
 Dessa forma, o banco de dados busca tornar a administração da loja mais organizada e eficiente, reduzir problemas de controle e contribuir para melhores decisões comerciais.
 Organização:  
 
-## Organização:
+## Ordem:
 - Gerente:
 O banco de dados poderá sugerir possíveis descontos, promoções e alterações nos preços de acordo com a demanda dos produtos. Caberá ao gerente decidir se irá ou não aplicar as sugestões.
 - Atendentes:
